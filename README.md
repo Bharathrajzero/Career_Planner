@@ -1,20 +1,20 @@
 # Agentic Career Planner
 
-**Agentic Career Planner** is a full‑stack career planning web app that helps users create an account, track career goals, analyze skill gaps, manage learning tasks, join courses, build resumes, and monitor progress from a personalized dashboard.
+**Agentic Career Planner** is a full‑stack career planning web app that empowers students and professionals to design personalized career roadmaps. It enables users to track career goals, analyze skill gaps, manage learning tasks, join courses, build resumes, and monitor progress from a secure, role‑based dashboard.
 
 ---
 
 ## 🚀 Features
-- User signup and login with hashed passwords  
-- JWT‑based session token stored on the client  
-- Protected user dashboard routes  
-- Profile update with optional profile picture upload  
+- Secure user signup and login with hashed passwords  
+- JWT‑based session token management  
+- Protected dashboard routes with role‑based access  
+- Profile updates with optional profile picture upload  
 - Skill gap tracking with readiness scores  
-- Task management with target time, spent time, completion, and deletion  
+- Task management (target time, spent time, completion, deletion)  
 - Course joining, completion tracking, and removal  
-- Dashboard progress summaries for tasks, courses, and skills  
-- Resume builder and resume analyzer screens  
-- Admin login and admin management screens in the frontend  
+- Dashboard summaries for tasks, courses, and skills  
+- Resume builder and resume analyzer modules  
+- Admin login and management screens  
 
 ---
 
@@ -67,7 +67,7 @@ cd ../backend
 npm install
 ```
 
-If you want to install root package dependencies too:
+Install root package dependencies (optional):
 ```bash
 cd ..
 npm install
@@ -175,6 +175,5 @@ GitHub: [Bharathrajzero](https://github.com/Bharathrajzero)
 
 ## 📜 License
 This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup Ltd.  
-See the `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` file for details.
 
 ---
