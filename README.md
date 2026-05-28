@@ -1,5 +1,3 @@
----
-
 # Agentic Career Planner
 
 **Agentic Career Planner** is a full‑stack career planning web app that helps users create an account, track career goals, analyze skill gaps, manage learning tasks, join courses, build resumes, and monitor progress from a personalized dashboard.
