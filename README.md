@@ -3,7 +3,34 @@
 **Agentic Career Planner** is a full‑stack career planning web app that empowers students and professionals to design personalized career roadmaps. It enables users to track career goals, analyze skill gaps, manage learning tasks, join courses, build resumes, and monitor progress from a secure, role‑based dashboard.
 
 ---
+## Screnshots
+<img width="1920" height="1079" alt="Capture14" src="https://github.com/user-attachments/assets/394c8d30-87f9-4bdf-aaf6-75beb06663c9" />
 
+--
+<img width="1920" height="1079" alt="15" src="https://github.com/user-attachments/assets/8d006990-f00c-42d6-a0f4-18f121f954d3" />
+
+--
+<img width="1920" height="1079" alt="Capture16" src="https://github.com/user-attachments/assets/8bffcc17-5e9b-46d9-9e74-f372ef50de37" />
+
+--
+<img width="1920" height="1079" alt="Capture15" src="https://github.com/user-attachments/assets/4a59fa3d-e894-4bcf-8a47-3347d4881b7d" />
+
+--
+<img width="1920" height="1079" alt="Capture18" src="https://github.com/user-attachments/assets/c2ea6217-5507-47af-8462-4c0621405812" />
+
+--
+<img width="1920" height="1079" alt="Capture17" src="https://github.com/user-attachments/assets/d03fd555-6a05-4e7d-8817-9abbe30b97f3" />
+
+--
+<img width="1920" height="1079" alt="Capture21" src="https://github.com/user-attachments/assets/c3f313be-d147-40f9-a4c4-08bbaa4d29b5" />
+
+--
+<img width="1920" height="1079" alt="Capture19" src="https://github.com/user-attachments/assets/e83bb6a7-13b8-4f6d-98ad-b149cbafd79f" />
+
+--
+<img width="1920" height="1079" alt="Capture20" src="https://github.com/user-attachments/assets/0d536aa0-1f79-49af-b656-8238fe71f335" />
+
+--
 ## 🚀 Features
 - Secure user signup and login with hashed passwords  
 - JWT‑based session token management  
