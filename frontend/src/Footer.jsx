@@ -4,7 +4,7 @@ import "./App.css";
 function Footer() {
   return (
     <footer className="dashboard-footer">
-      <p>© 2026 Agentic Planner | Powered by AlphaGroup</p>
+      <p>© 2026 Agentic Carrer Planner | Powered by AlphaGroup</p>
     </footer>
   );
 }
